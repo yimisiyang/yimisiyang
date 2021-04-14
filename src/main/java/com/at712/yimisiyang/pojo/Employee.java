@@ -11,7 +11,6 @@ public class Employee {
     private String lastname;
     private String email;
     private Integer gender;
-
     private Deportment deportment;
     private Date birth;
 }
